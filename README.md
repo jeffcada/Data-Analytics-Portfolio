@@ -4,7 +4,13 @@
 
 - [Project Overview](#project-overviwew)
 - [Data Sources](#data_sources)
-- 
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data_cleaning_preparation)
+- [Exploratory Data Analysis](#exploratory_data_analysis)
+- [Data Analysis](#data_analysis)
+- [Results Findings](#results_findings)
+- [Recommmendations](#reccomendations)
+- [Limitations](#limitations)
 ### Project Overview 
 
 This product sales analysis looks at data taken from my family's flute company. This allows us to cohesively compile sales data into a concentrated report to gain a deeper understanding of product performance and potential trends to leverage.   
